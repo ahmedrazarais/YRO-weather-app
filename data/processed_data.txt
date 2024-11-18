@@ -1,36 +1,60 @@
-Date: 2024-11-18 20:08:16
-Average Temperature: 24.9°C
-Average Feels Like: 24.7°C
-Average Humidity: 47.0%
-Average Wind Speed: 1.5 m/s
+Date: 2024-11-18 21:19:18
+Average Temperature: 23.9°C
+Average Feels Like: 23.7°C
+Average Humidity: 53.0%
+Average Wind Speed: 0.0 m/s
 ---------------------------------------------
-Date: 2024-11-18 20:12:37
-Average Temperature: 24.9°C
-Average Feels Like: 24.7°C
-Average Humidity: 47.0%
-Average Wind Speed: 1.5 m/s
+Date: 2024-11-18 21:20:10
+Average Temperature: 23.9°C
+Average Feels Like: 23.7°C
+Average Humidity: 53.0%
+Average Wind Speed: 0.0 m/s
 ---------------------------------------------
-Date: 2024-11-18 20:13:28
-Average Temperature: 24.9°C
-Average Feels Like: 24.7°C
-Average Humidity: 47.0%
-Average Wind Speed: 1.5 m/s
+Date: 2024-11-18 21:25:08
+Average Temperature: 23.9°C
+Average Feels Like: 23.7°C
+Average Humidity: 53.0%
+Average Wind Speed: 0.0 m/s
 ---------------------------------------------
-Date: 2024-11-18 20:14:18
-Average Temperature: 24.9°C
-Average Feels Like: 24.7°C
-Average Humidity: 47.0%
-Average Wind Speed: 1.5 m/s
+Date: 2024-11-18 21:26:00
+Average Temperature: 23.9°C
+Average Feels Like: 23.7°C
+Average Humidity: 53.0%
+Average Wind Speed: 0.0 m/s
 ---------------------------------------------
-Date: 2024-11-18 20:15:09
-Average Temperature: 24.9°C
-Average Feels Like: 24.7°C
-Average Humidity: 47.0%
-Average Wind Speed: 1.5 m/s
+Date: 2024-11-18 21:27:13
+Average Temperature: 14.2°C
+Average Feels Like: 12.9°C
+Average Humidity: 46.0%
+Average Wind Speed: 4.6 m/s
 ---------------------------------------------
-Date: 2024-11-18 20:15:59
-Average Temperature: 24.9°C
-Average Feels Like: 24.7°C
-Average Humidity: 47.0%
-Average Wind Speed: 1.5 m/s
+Date: 2024-11-18 21:28:05
+Average Temperature: 14.2°C
+Average Feels Like: 12.9°C
+Average Humidity: 46.0%
+Average Wind Speed: 4.6 m/s
+---------------------------------------------
+Date: 2024-11-18 21:29:07
+Average Temperature: 14.2°C
+Average Feels Like: 12.9°C
+Average Humidity: 46.0%
+Average Wind Speed: 4.6 m/s
+---------------------------------------------
+Date: 2024-11-18 21:29:57
+Average Temperature: 14.2°C
+Average Feels Like: 12.9°C
+Average Humidity: 46.0%
+Average Wind Speed: 4.6 m/s
+---------------------------------------------
+Date: 2024-11-18 21:32:00
+Average Temperature: 14.2°C
+Average Feels Like: 12.9°C
+Average Humidity: 46.0%
+Average Wind Speed: 4.6 m/s
+---------------------------------------------
+Date: 2024-11-18 21:34:30
+Average Temperature: 14.2°C
+Average Feels Like: 12.9°C
+Average Humidity: 46.0%
+Average Wind Speed: 4.6 m/s
 ---------------------------------------------
