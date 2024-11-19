@@ -186,6 +186,8 @@ void calculateAndSaveAverages() {
 void displayAlert(double avgTemp, double avgHumidity, double avgWindSpeed) {
     // Alert for high temperature
     if (avgTemp > 35.0) {
+        printf("\n---Alert---\n");
+        printf("\n------------------------------------------------------------\n");
         printf("Alert: High temperature detected! (%.1f°C)\n", avgTemp);
         system("echo 'High Temperature Alert: Temperature is above 35°C' > /dev/tty");  // Output to terminal
        
@@ -193,6 +195,8 @@ void displayAlert(double avgTemp, double avgHumidity, double avgWindSpeed) {
 
     // Alert for high humidity
     if (avgHumidity > 80.0) {
+        printf("\n---Alert---\n");
+        printf("\n------------------------------------------------------------\n");
         printf("Alert: High humidity detected! (%.1f%%)\n", avgHumidity);
         system("echo 'High Humidity Alert: Humidity is above 80%' > /dev/tty");  // Output to terminal
   
@@ -200,6 +204,8 @@ void displayAlert(double avgTemp, double avgHumidity, double avgWindSpeed) {
 
     // Alert for high wind speed
     if (avgWindSpeed < 15.0) {
+         printf("\n---Alert---\n");
+        printf("\n------------------------------------------------------------\n");
         printf("Alert: High wind speed detected! (%.1f m/s)\n", avgWindSpeed);
         system("echo 'High Wind Speed Alert: Wind speed is above 15 m/s' > /dev/tty");  // Output to terminal
        
