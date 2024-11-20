@@ -6,19 +6,18 @@
 #include <curl/curl.h>
 #include <cjson/cJSON.h>
 
-#define MAX_API_CALLS 5  // Define maximum number of API calls in a batch
+#define MAX_API_CALLS 24  // Define maximum number of API calls in a batch
 
-// Forward declaration of the calculateAndSaveAverages function
+
 void calculateAndSaveAverages(void);
 
-// Store the weather data collected in 5 minutes
 struct WeatherData rawData[MAX_API_CALLS];
 int dataCount = 0;  // To track how many API calls have been made
 
 // Function to initialize string
 void init_string(struct string *s) {
     s->ptr = malloc(1);  // initially no memory
-    s->len = 0;          // no data at all
+    s->len = 0;          // no data
     s->ptr[0] = '\0';    // null terminate
 }
 
@@ -106,7 +105,7 @@ void fetchWeatherData(const char *city) {
                     dataCount++;
 
                     if (dataCount >= MAX_API_CALLS) {
-                        // Once 5 calls are made, calculate averages
+                        // Once 24 calls are made, calculate averages
                         calculateAndSaveAverages();
                         dataCount = 0;  // Reset for the next batch of data
                         printf("\npass completed and data saved to processed data file\n");

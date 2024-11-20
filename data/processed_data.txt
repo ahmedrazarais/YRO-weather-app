@@ -202,3 +202,171 @@ Average Feels Like: 5.8°C
 Average Humidity: 60.0%
 Average Wind Speed: 9.3 m/s
 ---------------------------------------------
+Date: 2024-11-20 22:46:37
+Average Temperature: 11.7°C
+Average Feels Like: 10.6°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:47:28
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:48:20
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:49:12
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:50:04
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:50:56
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:51:47
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:52:39
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:53:31
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:54:22
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:55:14
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:56:06
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:56:57
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:57:49
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.3 m/s
+---------------------------------------------
+Date: 2024-11-20 22:58:41
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.1 m/s
+---------------------------------------------
+Date: 2024-11-20 22:59:33
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:00:24
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:01:16
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:02:08
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:03:00
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:03:52
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:04:44
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 3.7 m/s
+---------------------------------------------
+Date: 2024-11-20 23:05:35
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:06:27
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:07:19
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:08:11
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:09:03
+Average Temperature: 11.8°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------
+Date: 2024-11-20 23:09:55
+Average Temperature: 11.7°C
+Average Feels Like: 10.7°C
+Average Humidity: 65.0%
+Average Wind Speed: 4.1 m/s
+---------------------------------------------

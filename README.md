@@ -9,18 +9,7 @@ A CLI-based weather app fetching real-time data from OpenWeather API using `curl
 - Data storage in raw and processed formats.
 
 
-## Project Structure
 
-/YRO-weather-app
-    ├── /data
-    │   ├── raw_data.txt       # Raw weather data (appended every API call)
-    │   └── processed_data.txt # Processed averages of weather data
-    ├── /scripts
-    │   └── retrieve_data.sh   # Bash script to compile and run the app
-    ├── /src
-    │   ├── main.c             # Main program file
-    │   ├── weather.c          # Weather data fetching and processing
-    │   └── weather.h          # Header file containing structure definitions
 
 
 ## Prerequisites
@@ -73,13 +62,14 @@ To run this application, you need to have the following installed:
 - **High Humidity Alert:** Triggered if the average humidity is greater than 80%.
 - **High Wind Speed Alert:** Triggered if the average wind speed is greater than 15 m/s.
 
-**Note:** Make sure to replace the API key in `weather.c` with your own key from OpenWeather API.
+**Note:** Make sure to replace the API key in `weather.c` with your own key from OpenWeather API. also adjust paths according to your systems requirements.
 
 ### Background Execution
 
 You can run the application in the background using `nohup`:
 
 ```bash
+cd src/
 nohup ./weather_app &
 
 ```
@@ -87,6 +77,7 @@ nohup ./weather_app &
 
 - First, get the process ID (PID):
 ```bash
+cd src/
 ps aux | grep weather_app
 ```
 
@@ -108,16 +99,3 @@ cd scripts
 
 
 
-
-# For run in background
-nohup ./weather_app &
-
-#kill from background
-kill 1582
-
-
-
-# Run script file
-cd scripts
-
-./retrieve_data.sh
