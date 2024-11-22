@@ -4,7 +4,7 @@
 #include <curl/curl.h>
 #include <cjson/cJSON.h>
 
-#define MAX_API_CALLS 5
+#define MAX_API_CALLS 24
 
 // Structure to store weather data
 struct WeatherData {

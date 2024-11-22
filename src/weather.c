@@ -74,7 +74,7 @@ void fetchWeatherData(const char *city) {
         if (res == CURLE_OK) {
             // Display weather data in terminal
             printf("\n------------------------------------------------------\n");
-            printf("            Weather Details for %s after 30 sec             \n", city);
+            printf("            Weather Details for %s             \n", city);
             printf("-----------------------------------------------------------\n");
 
             // Parse the raw data

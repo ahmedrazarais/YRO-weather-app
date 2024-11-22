@@ -1,10 +1,11 @@
 #!/bin/bash
 
-# Navigate to the project root directory
+# My root directory path 
 cd "/mnt/c/Users/ideal pc/Desktop/YRO-weather-app/"
 
-# Compile the C program (ensure this path is correct for your environment)
+# Compile the C program command
 gcc src/main.c src/weather.c -o weather_app -lcurl -lcjson
 
-# Run the program (ensure it's compiled correctly)
+# executable path
 ./weather_app
+
